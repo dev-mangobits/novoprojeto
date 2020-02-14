@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -15,10 +15,11 @@ function App() {
         <p>PWA startupkit</p>
         <a
           className="App-link"
-          href="http://www.mangobits.com" target="_blank"
+          href="http://www.mangobits.com"
+          target="_blank"
           rel="noopener noreferrer"
         >
-          MangoBits
+          Another Brick in the Wall
         </a>
       </header>
     </div>
